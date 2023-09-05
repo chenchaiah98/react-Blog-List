@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.blog-heading {
+  display: flex;
+  justify-content: space-between;
+}
+.text-grey {
+  color: #616e7c;
+}
+.hr {
+  background-color: #616e7c;
+}
+.heading-text {
+  font-size: 20px;
+  font-weight: 600;
+}

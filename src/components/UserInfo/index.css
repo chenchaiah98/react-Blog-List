@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.user-info img {
+  height: 250px;
+}
+.user-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.user-info p {
+  margin: 0;
+}

@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.blog-list {
+  list-style: none;
+  width: 90%;
+}
+@media Screen and (max-width: 768px) {
+  .blog-list {
+    margin: 0;
+    padding: 0;
+  }
+}
